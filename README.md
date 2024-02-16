@@ -11,4 +11,4 @@
 + [БЭМ — Nested](https://ru.bem.info/methodology/key-concepts/)
 + [Flexbox](https://www.w3.org/TR/css-flexbox-1/)
   
-_Автор Ярослав Б._
+**Автор:** _Yaroslav Baramykov_
